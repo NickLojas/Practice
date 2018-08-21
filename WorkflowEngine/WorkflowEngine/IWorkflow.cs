@@ -17,5 +17,9 @@ namespace WorkflowEngine
         {
             Activities.Add(activity);
         }
+        public void Remove(IActivity activity)
+        {
+            Activities.Remove(activity);
+        }
     }
 }
