@@ -8,3 +8,4 @@
 
 4. Stack Overflow Post - A mock blogging website post that includes controlling the upvote/downvotes and descriptions for a post object
 
+5. Workflow Engine - A simple project to practice using interfaces
